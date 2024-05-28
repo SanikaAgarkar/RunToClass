@@ -1,7 +1,5 @@
 import javax.swing.JFrame;
 
-// checking gitHub
-
 public class game {
     public static void main(String[] args) {
         JFrame window = new JFrame();
